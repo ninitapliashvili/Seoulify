@@ -475,9 +475,10 @@ body{
     flex-direction: row;
     justify-content: space-between;
 }
-.footer2-par{
+.footer2-par,.footer-a{
     font-family: proxima-nova, sans-serif;
     font-size: 20px;
     font-weight: normal;
     color: #6F6F6F;
 }
+
